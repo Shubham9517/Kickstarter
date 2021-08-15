@@ -1,0 +1,26 @@
+0x394961b7CD63b75aE1E4528125C0B843aBD24e0B
+
+/** @format */
+
+import React from "react";
+import { Menu, MenuItem } from "semantic-ui-react";
+import { Link } from "../routes";
+
+export default () => {
+  return (
+    <Menu style={{ marginTop: "10px" }}>
+      <Menu.Item>CrowdCoin</Menu.Item>
+
+      <Menu.Menu position="right">
+        <Menu.Item>Campaigns</Menu.Item>
+
+        <Menu.Item>+</Menu.Item>
+      </Menu.Menu>
+    </Menu>
+  );
+};
+
+0x6307C67853AFbc8d91Ac4d4571D4Ae72b7E24E8b
+
+0x24aB731E4548dca498E38d45877A875EB087deF1
+
